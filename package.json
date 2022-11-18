@@ -1,6 +1,6 @@
 {
   "name": "lottie-react-native",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "description": "React Native bindings for Lottie",
   "main": "lib/index.js",
   "types": "src/js/index.d.ts",
@@ -49,7 +49,8 @@
   "dependencies": {
     "invariant": "^2.2.2",
     "prop-types": "^15.5.10",
-    "react-native-safe-modules": "^1.0.3"
+    "react-native-safe-modules": "^1.0.3",
+    "deprecated-react-native-prop-types": "^2.3.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",

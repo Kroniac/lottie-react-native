@@ -6,11 +6,11 @@ import {
   View,
   Platform,
   StyleSheet,
-  ViewPropTypes,
   requireNativeComponent,
   NativeModules,
 } from 'react-native';
 import SafeModule from 'react-native-safe-modules';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import PropTypes from 'prop-types';
 
 

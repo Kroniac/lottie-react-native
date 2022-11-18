@@ -1,3 +1,7 @@
+## 4.1.4
+
+- Fixed ViewPropTypes import
+
 ## 4.1.3
 
 - Added pod support for tvOS
